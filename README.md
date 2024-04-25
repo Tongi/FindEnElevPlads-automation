@@ -7,8 +7,6 @@ Dette kodeeksempel demonstrerer automatiseret dataudvinding fra en lærepladsen.
 For at køre koden skal du først installere de nødvendige biblioteker ved at køre følgende kommandoer:
 
 ```bash
-
-/
 pip install selenium asyncio
 for at kunne kører programmet, skal du skrive:
 python datatekniker.py
