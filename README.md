@@ -16,12 +16,12 @@ Justér ventetider, sideantal og andre parametre efter behov.
 Kørsel af koden
 Naviger til mappen, hvor din Python-scriptfil (dattekniker.py) er gemt, og kør scriptet fra kommandolinjen eller din foretrukne IDE ved at køre følgende kommando:
 
-bash
-Copy code
-python datatekniker.py
-Output
-Efter kørslen vil koden interagere med hjemmesiden, udføre dataudvinding og gemme resultaterne i tekstfiler. Du kan finde virksomhedsnavne med e-mails i virksomheds.txt og individuelle e-mails for hver side i filer med formatet page_{side_num}_emails.txt.
 
-Bemærkninger
-Sørg for at have en stabil internetforbindelse, da koden er afhængig af adgang til internettet for at fungere korrekt.
-Hvis der opstår fejl under kørslen, skal du kontrollere konsoloutputet for at identificere problemet og justere koden efter behov.
+for at kunne kører programmet, skal du skrive:
+python datatekniker.py
+
+Efter kørslen vil koden interagere med hjemmesiden, udføre dataudvinding og gemme resultaterne i tekstfiler. Du kan finde virksomhedsnavne med e-mails i virksomheds.txt og individuelle e-mails for hver side i filer med formatet page_{side_num}_emails.txt, og til sidst vil der komme en virksomheds.txt.
+
+Bemærkninger:
+Må ej gøres til dit eget til at fremvise foran virksomheder.
+
