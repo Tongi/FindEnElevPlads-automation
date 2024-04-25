@@ -130,8 +130,7 @@ async def main():
         for company_name in virksomheds_with_emails:
             f.write(company_name + '\n')
 
-    # Close the browser window when you're done
     driver.quit()
 
-# Run the asyncio loop
+
 asyncio.run(main())
