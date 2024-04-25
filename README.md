@@ -1,4 +1,4 @@
-# Automatiseret Dataudvinding med Selenium og asyncio
+# Automatiseret Data-opsamler/Crawler med Selenium og asyncio
 
 Dette kodeeksempel demonstrerer automatiseret dataudvinding fra en lærepladsen.dk ved hjælp af Selenium og asyncio i Python. Det gør brug af en Chrome WebDriver til at interagere med websiderne.
 
