@@ -9,16 +9,13 @@ For at køre koden skal du først installere de nødvendige biblioteker ved at k
 ```bash
 pip install selenium asyncio
 Sørg også for at have den seneste version af Chrome WebDriver installeret og tilgængelig i dit system PATH.
+for at kunne kører programmet, skal du skrive:
+python datatekniker.py
 
 Tilpasning af koden
 Erstat XPaths og URLs i koden med dem, der er relevante for den hjemmeside, du vil interagere med.
 Justér ventetider, sideantal og andre parametre efter behov.
-Kørsel af koden
-Naviger til mappen, hvor din Python-scriptfil (dattekniker.py) er gemt, og kør scriptet fra kommandolinjen eller din foretrukne IDE ved at køre følgende kommando:
 
-
-for at kunne kører programmet, skal du skrive:
-python datatekniker.py
 
 Efter kørslen vil koden interagere med hjemmesiden, udføre dataudvinding og gemme resultaterne i tekstfiler. Du kan finde virksomhedsnavne med e-mails i virksomheds.txt og individuelle e-mails for hver side i filer med formatet page_{side_num}_emails.txt, og til sidst vil der komme en virksomheds.txt.
 
