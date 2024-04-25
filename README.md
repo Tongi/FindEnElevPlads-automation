@@ -8,6 +8,7 @@ For at køre koden skal du først installere de nødvendige biblioteker ved at k
 
 ```bash
 
+/
 pip install selenium asyncio
 for at kunne kører programmet, skal du skrive:
 python datatekniker.py
