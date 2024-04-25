@@ -24,4 +24,5 @@ Bemærkninger:
 Må ej gøres til dit eget til at fremvise foran virksomheder.
 Hver gang den kommer til en ny page på
 next_page_url = f"https://pms.laerepladsen.dk/soeg-opslag/{page_num}/Data-%20og%20kommunikationsuddannelsen/Datatekniker%20med%20speciale%20i%20programmering?aftaleFilter=alle&medarbejdereFilter=alle&adresse=0a3f50bd-fbe3-32b8-e044-0003ba298018"
+så vil den den lave en page_{page}.txt pr side den har gennemført med email,  det vil medfører ca 50 tekst filer vil forekomme på din computer så, en mappe vil anbefales at datatekniker.py vil blive gemt på.
 
