@@ -17,7 +17,7 @@ Erstat XPaths og URLs i koden med dem, der er relevante for den hjemmeside, du v
 Justér ventetider, sideantal og andre parametre efter behov.
 
 
-Efter kørslen vil koden interagere med hjemmesiden, udføre dataudvinding og gemme resultaterne i tekstfiler. Du kan finde virksomhedsnavne med e-mails i virksomheds.txt og individuelle e-mails for hver side i filer med formatet page_{side_num}_emails.txt, og til sidst vil der komme en virksomheds.txt.
+Efter kørslen vil koden interagere med hjemmesiden, udføre Data-opsamler/Crawler og gemme resultaterne i tekstfiler. Du kan finde virksomhedsnavne med e-mails i virksomheds.txt og individuelle e-mails for hver side i filer med formatet page_{side_num}_emails.txt, og til sidst vil der komme en virksomheds.txt.
 
 Bemærkninger:
 Må ej gøres til dit eget til at fremvise foran virksomheder.
