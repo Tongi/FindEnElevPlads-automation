@@ -7,10 +7,11 @@ Dette kodeeksempel demonstrerer automatiseret dataudvinding fra en webside ved h
 For at køre koden skal du først installere de nødvendige biblioteker ved at køre følgende kommandoer:
 
 ```bash
+
 pip install selenium asyncio
-Sørg også for at have den seneste version af Chrome WebDriver installeret og tilgængelig i dit system PATH.
 for at kunne kører programmet, skal du skrive:
 python datatekniker.py
+
 
 Tilpasning af koden
 Erstat XPaths og URLs i koden med dem, der er relevante for den hjemmeside, du vil interagere med.
